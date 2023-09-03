@@ -4,7 +4,7 @@ from datetime import date
 
 def get_omics_regions():
     """
-    Returns a list of AWS regions that offer the omics service.
+    Returns a list of AWS regions that offer the omics (HealthOmics) service.
     """
     s = Session()
     omics_regions = s.get_available_regions("omics")
