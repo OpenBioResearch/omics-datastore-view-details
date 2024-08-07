@@ -1,1 +1,9 @@
+# Ignore virtual environment directories
 .venv/
+env/
+
+# Ignore the deployment package directory
+intensity_stats_package/
+
+# Ignore other unnecessary files
+*.zip
