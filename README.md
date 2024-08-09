@@ -2,7 +2,7 @@
 
 ## Overview
 
-This script retrieves and consolidates details of AWS HealthOmics data stores (sequence, annotation, and variant stores) from multiple AWS regions
+Scripts retrieve and consolidate details of AWS HealthOmics data stores (sequence, annotation, and variant stores) from multiple AWS regions.  They also provide visualization of the data stores' distribution and shows the distribution of data stores across regions and types and timetables.
 
 ## Installation and Usage
 
